@@ -1,4 +1,3 @@
 print(heeloo);
 ghgh
-xvxc
-ds
+xvx
