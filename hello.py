@@ -1,2 +1,2 @@
 print(heeloo);
-gh
+g
